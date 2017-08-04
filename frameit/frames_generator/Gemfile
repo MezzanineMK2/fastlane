@@ -1,4 +1,4 @@
 gem 'colored'
-gem 'mini_magick', '~> 4.5.1' # To open, edit and export PSD files
+gem 'mini_magick', '4.8.0' # To open, edit and export PSD files
 gem 'pry'
 gem 'rake'
